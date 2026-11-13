@@ -4,4 +4,4 @@ DFT structures for:
 
 Halle M. Marvich, Olivia C. Langner, Nicolò Tampellini, Scott J. Miller*
 
-[*(submitted)*](https://doi.org/10.1021/jacs.6c04560)
+J. Am. Chem. Soc. - [*Link*](https://doi.org/10.1021/jacs.6c04560)
