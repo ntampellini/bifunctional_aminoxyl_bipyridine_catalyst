@@ -4,4 +4,4 @@ DFT structures for:
 
 Halle M. Marvich, Olivia C. Langner, Nicolò Tampellini, Scott J. Miller*
 
-*(submitted)*
+[*(submitted)*](https://doi.org/10.1021/jacs.6c04560)
